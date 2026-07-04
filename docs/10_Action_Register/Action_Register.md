@@ -45,3 +45,10 @@
 | ACT-041 | Backfill document metadata where missing | TBD | Open | TBD | Add owner, status, review date, related assets, decisions, and actions |
 | ACT-042 | Apply naming standards to future photos, drawings, and asset files | TBD | Open | TBD | Use stable IDs and predictable filenames |
 | ACT-043 | Review governance framework after next major planning phase | TBD | Open | TBD | Confirm standards still fit the project |
+| ACT-044 | Define Project Zero canonical entity relationship model | TBD | Open | TBD | Include assets, projects, decisions, actions, finance, documents, GIS, sensors, and AI insights |
+| ACT-045 | Resolve duplicate docs folder numbering plan | TBD | Open | TBD | Prepare migration for duplicated 06, 07, and 08 folders without breaking links |
+| ACT-046 | Decide canonical asset data source | TBD | Open | TBD | Likely migrate from asset_register.csv to assets.csv as canonical seed |
+| ACT-047 | Draft Project Zero database schema | TBD | Open | TBD | Include relational, spatial, object storage, time-series, and vector retrieval needs |
+| ACT-048 | Capture first GIS base layers | TBD | Open | TBD | Property boundary, buildings, roads, dam, utilities, forestry, koala corridor |
+| ACT-049 | Design Project Zero app shell around property map | TBD | Open | TBD | Map-first interface with asset, decision, action, finance, and document panels |
+| ACT-050 | Prototype AI retrieval with governed citations | TBD | Open | TBD | AI must cite source records and not overwrite decisions |

@@ -2,6 +2,8 @@
 
 Project Eudlo is a living documentation and planning system for the Eudlo Road property.
 
+Project Zero is the Eudlo App: a separate operating system platform for the property. It is not part of BoundHQ. It is the proving ground for ideas that may later influence other businesses or systems.
+
 All contributors and AI agents must follow the [Project Governance Framework](GOVERNANCE/CONSTITUTION.md).
 
 It is intended to become the long-term source of truth for decisions, assumptions, actions, supplier quotes, and investment cases across the property. The current planning scope includes energy, water, workshop infrastructure, tiny homes, forestry, land use, and supporting infrastructure.
@@ -12,6 +14,7 @@ The long-term app direction is a digital twin of the Eudlo Road property. Every 
 
 ## Core Areas
 
+- Project Zero operating system architecture
 - Energy infrastructure and future expansion
 - Investment and financial strategy
 - Grants and incentives
@@ -43,3 +46,11 @@ The long-term app direction is a digital twin of the Eudlo Road property. Every 
 - [Document Standards](GOVERNANCE/DOCUMENT_STANDARDS.md)
 - [AI Agent Startup](GOVERNANCE/AI_AGENT_STARTUP.md)
 - [Changelog](GOVERNANCE/CHANGELOG.md)
+
+## Project Zero
+
+- [Project Zero Vision](docs/PROJECT_ZERO_VISION.md)
+- [Project Zero Roadmap](docs/PROJECT_ZERO_ROADMAP.md)
+- [Project Zero Architecture](docs/PROJECT_ZERO_ARCHITECTURE.md)
+- [Project Zero Backlog](docs/PROJECT_ZERO_BACKLOG.md)
+- [Project Zero Review](docs/PROJECT_ZERO_REVIEW.md)

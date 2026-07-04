@@ -3,6 +3,11 @@
 ## Project Overview
 
 - [README](../../README.md)
+- [Project Zero Vision](../PROJECT_ZERO_VISION.md)
+- [Project Zero Roadmap](../PROJECT_ZERO_ROADMAP.md)
+- [Project Zero Architecture](../PROJECT_ZERO_ARCHITECTURE.md)
+- [Project Zero Backlog](../PROJECT_ZERO_BACKLOG.md)
+- [Project Zero Review](../PROJECT_ZERO_REVIEW.md)
 
 ## Governance
 
@@ -43,6 +48,7 @@
   - [DEC-004 Dam Pump Concept](../09_Decision_Logs/DEC-004-Dam-Pump-Concept.md)
   - [DEC-005 Separate Solar And Efficiency Grants](../09_Decision_Logs/DEC-005-Separate-Solar-And-Efficiency-Grants.md)
   - [DEC-006 Digital Twin Architecture](../09_Decision_Logs/DEC-006-Digital-Twin.md)
+  - [DEC-007 Project Zero Architecture Direction](../09_Decision_Logs/DEC-007-Project-Zero-Architecture.md)
 - [10 Action Register](../10_Action_Register/Action_Register.md)
 - [11 Suppliers Quotes](../11_Suppliers_Quotes/Suppliers_Quotes.md)
 - [12 App Integration](../12_App_Integration/App_Integration.md)

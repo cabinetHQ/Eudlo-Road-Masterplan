@@ -4,6 +4,13 @@
 
 Initial governance baseline for Project Eudlo.
 
+### Project Zero Architecture Transition
+
+- Defined Project Zero as the Eudlo App and a separate property operating system platform.
+- Created Project Zero vision, roadmap, architecture, backlog, and repository review.
+- Added DEC-007 for Project Zero architecture direction.
+- Identified that the repository must evolve from document-first knowledge base into entity, database, GIS, workflow, automation, and AI architecture.
+
 ### Completed So Far
 
 - Created the base Project Eudlo repository structure.
