@@ -28,3 +28,10 @@
 | ACT-024 | Identify sunny location for dam pump panels | TBD | Open | TBD | Assess shade and practical cable route to pump/controller |
 | ACT-025 | Obtain pump sizing advice | TBD | Open | TBD | Target approximately 6,000 L/hour at around 20 m lift |
 | ACT-026 | Check whether plunge basin works affect any waterway/spillway approvals | TBD | Open | TBD | Confirm before earthworks or changes near dam/spillway/waterway areas |
+| ACT-027 | Speak to accountant about R&D Tax Incentive | TBD | Open | TBD | Confirm entity, expenditure, tax treatment, and whether any work should be screened |
+| ACT-028 | Speak to R&D tax advisor | TBD | Open | TBD | Screen BoundHQ/cabinetHQ activities before relying on any claim value |
+| ACT-029 | Identify BoundHQ experimental work already completed | TBD | Open | TBD | Focus on technical uncertainty, experiments, failures, and measured outcomes |
+| ACT-030 | Identify eligible future R&D activities | TBD | Open | TBD | Set up evidence capture before new automation or optimisation work begins |
+| ACT-031 | Collect evidence and timesheets | TBD | Open | TBD | Include project notes, test results, commits, invoices, and staff time |
+| ACT-032 | Investigate MEEG for compressor/VSD/lighting/monitoring only | TBD | Open | TBD | Keep solar, batteries, second-hand gear, and switchboard upgrades out of MEEG scope |
+| ACT-033 | Verify current CEFC/bank green finance options | TBD | Open | TBD | Ask banks and brokers for current rates, terms, fees, security, and eligible equipment |
