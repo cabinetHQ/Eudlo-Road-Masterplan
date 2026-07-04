@@ -1,0 +1,13 @@
+{
+  "current_power_bill_monthly": 1200,
+  "current_power_bill_annual": 14400,
+  "average_daily_consumption_kwh": 93,
+  "stage_1_solar_kw": 50,
+  "future_solar_kw": 100,
+  "stage_1_battery_kwh": 100,
+  "target_net_installed_cost_low": 60000,
+  "target_net_installed_cost_high": 80000,
+  "offset_rate_placeholder": 0.06,
+  "electricity_price_growth_placeholder": 0.03
+}
+

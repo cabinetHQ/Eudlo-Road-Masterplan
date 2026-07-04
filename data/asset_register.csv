@@ -1,0 +1,5 @@
+asset_id,asset_name,category,status,capacity,location,notes
+AST-001,Existing grid connection,Energy,Existing,TBD,Eudlo Road,Confirm supply capacity and tariff
+AST-002,Proposed stage 1 solar,Energy,Planned,50 kW,TBD,Design for expansion
+AST-003,Proposed stage 1 battery,Energy,Planned,100 kWh,TBD,Confirm inverter capacity
+
