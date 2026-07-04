@@ -38,3 +38,7 @@ ACT-036,Create individual asset pages for high-value assets,TBD,Open,TBD,Use the
 ACT-037,Collect photos and drawings for priority assets,TBD,Open,TBD,Link photos manuals plans quotes and warranties to asset records
 ACT-038,Add maintenance intervals for machinery and infrastructure,TBD,Open,TBD,Include compressor CNC edgebander dust extraction generator battery and pump
 ACT-039,Link decisions and actions to asset IDs,TBD,Open,TBD,Improve future app ingestion and reporting
+ACT-040,Assign owners and review dates to major documents,TBD,Open,TBD,Required by Project Constitution
+ACT-041,Backfill document metadata where missing,TBD,Open,TBD,Add owner status review date related assets decisions and actions
+ACT-042,Apply naming standards to future photos drawings and asset files,TBD,Open,TBD,Use stable IDs and predictable filenames
+ACT-043,Review governance framework after next major planning phase,TBD,Open,TBD,Confirm standards still fit the project

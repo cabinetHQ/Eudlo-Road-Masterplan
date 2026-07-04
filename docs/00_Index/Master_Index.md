@@ -4,6 +4,16 @@
 
 - [README](../../README.md)
 
+## Governance
+
+- [Constitution](../../GOVERNANCE/CONSTITUTION.md)
+- [Project Principles](../../GOVERNANCE/PROJECT_PRINCIPLES.md)
+- [Decision Framework](../../GOVERNANCE/DECISION_FRAMEWORK.md)
+- [Naming Standards](../../GOVERNANCE/NAMING_STANDARDS.md)
+- [Document Standards](../../GOVERNANCE/DOCUMENT_STANDARDS.md)
+- [AI Agent Startup](../../GOVERNANCE/AI_AGENT_STARTUP.md)
+- [Changelog](../../GOVERNANCE/CHANGELOG.md)
+
 ## Major Sections
 
 - [01 Energy Infrastructure Masterplan](../01_Energy_Infrastructure_Masterplan/Energy_Masterplan.md)
