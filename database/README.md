@@ -37,6 +37,8 @@ The database becomes the future operational source of truth for:
 - AI insights
 - Audit history
 
+Project Zero may use the same technical rails as BoundHQ, but this database must represent the Project Zero application boundary. Project Zero data should not be mixed into BoundHQ business-domain tables.
+
 ## Current Status
 
 The schema is a draft and may change before app build.
@@ -48,6 +50,7 @@ The current goal is to define stable foundations:
 - PostGIS support for map-first architecture
 - seed data from the current repository
 - audit-ready relationships for future AI and automation
+- separate Project Zero login, permissions and database boundary
 
 ## Suggested Load Order
 

@@ -4,6 +4,8 @@ Project Eudlo is a living documentation and planning system for the Eudlo Road p
 
 Project Zero is the Eudlo App: a separate operating system platform for the property. It is not part of BoundHQ. It is the proving ground for ideas that may later influence other businesses or systems.
 
+Project Zero may reuse BoundHQ's technical foundation, patterns and infrastructure, but it must remain a separate application with separate login, permissions, database boundary and product roadmap.
+
 All contributors and AI agents must follow the [Project Governance Framework](GOVERNANCE/CONSTITUTION.md).
 
 It is intended to become the long-term source of truth for decisions, assumptions, actions, supplier quotes, and investment cases across the property. The current planning scope includes energy, water, workshop infrastructure, tiny homes, forestry, land use, and supporting infrastructure.

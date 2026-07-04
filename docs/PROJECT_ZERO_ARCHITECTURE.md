@@ -6,6 +6,27 @@ Project Zero is the Eudlo App: a standalone operating system for a privately own
 
 It is not part of BoundHQ. It is a separate platform and proving ground. BoundHQ may later adopt ideas, but Project Zero must not be constrained by BoundHQ's workflows, data model, product priorities, or technical limitations.
 
+Project Zero may still reuse the BoundHQ technical foundation where it is useful. Shared technical rails are allowed; shared product domain is not.
+
+The boundary is:
+
+```text
+BoundHQ platform capabilities
+  - framework patterns
+  - deployment patterns
+  - shared UI components
+  - document and AI tooling patterns
+  - operational lessons
+
+Project Zero application
+  - separate login
+  - separate permissions
+  - separate database boundary
+  - separate product modules
+  - separate roadmap
+  - rural property operating system domain
+```
+
 ## Product Model
 
 Project Zero should be built around a small number of core concepts:
@@ -221,6 +242,8 @@ GIS requirements:
 
 Authentication must be simple at first and expandable later.
 
+Project Zero must have a separate login boundary from BoundHQ. It may reuse BoundHQ's authentication pattern or implementation approach, but users, roles, permissions and session context must resolve to the Project Zero application, not the BoundHQ product domain.
+
 Roles:
 
 - Owner
@@ -236,6 +259,14 @@ Permission examples:
 - Accountants can view finance records but not private site notes unless granted.
 - Solar installers can view energy assets, quotes, and electrical documents.
 - AI agents can read broadly but must follow governance rules before writing.
+
+Isolation requirements:
+
+- Separate Project Zero application identity.
+- Separate user-role mapping for Project Zero.
+- Separate permission checks for Project Zero records.
+- No implicit access because a user has BoundHQ access.
+- Clear audit trail for Project Zero users and AI agents.
 
 ## AI Architecture
 
@@ -382,6 +413,8 @@ Likely future integrations:
 
 Start simple but do not paint the architecture into a corner.
 
+Project Zero may be deployed on the same technical rails as BoundHQ if that reduces build time and operational risk. The deployment must still preserve a separate application boundary, separate environment configuration, separate database boundary and separate product navigation.
+
 Recommended path:
 
 1. Prototype with a web app, relational database, object storage, and import tools.
@@ -401,3 +434,5 @@ Recommended path:
 - No map features that cannot link to records.
 - No AI actions without audit trail.
 - No architecture that prevents offline field capture.
+- No BoundHQ login or role should automatically grant Project Zero access.
+- No Project Zero data should be mixed into BoundHQ business tables.

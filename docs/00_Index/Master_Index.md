@@ -67,6 +67,7 @@
   - [DEC-007 Project Zero Architecture Direction](../09_Decision_Logs/DEC-007-Project-Zero-Architecture.md)
   - [DEC-008 Canonical Data Model](../09_Decision_Logs/DEC-008-Canonical-Data-Model.md)
   - [DEC-009 Database Foundation](../09_Decision_Logs/DEC-009-Database-Foundation.md)
+  - [DEC-010 Project Zero Product Boundary](../09_Decision_Logs/DEC-010-Project-Zero-Product-Boundary.md)
 - [10 Action Register](../10_Action_Register/Action_Register.md)
 - [11 Suppliers Quotes](../11_Suppliers_Quotes/Suppliers_Quotes.md)
 - [12 App Integration](../12_App_Integration/App_Integration.md)

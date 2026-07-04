@@ -13,6 +13,7 @@ Initial governance baseline for Project Eudlo.
 - Added canonical data model, entity relationship model, database schema draft, GIS data model, migration plan, and DEC-008.
 - Established structured entities as the future source of truth while keeping Markdown as narrative and decision archive.
 - Created the first PostgreSQL/PostGIS database foundation with schema SQL, seed SQL, database README, and DEC-009.
+- Added DEC-010 confirming Project Zero may reuse BoundHQ technical rails while keeping separate login, permissions, database boundary and roadmap.
 
 ### Completed So Far
 

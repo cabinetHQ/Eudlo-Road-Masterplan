@@ -16,6 +16,13 @@ Recommended foundation:
 - Vector index for AI retrieval
 - Time-series strategy for sensor readings and energy interval data
 
+Product boundary requirement:
+
+- Project Zero may be hosted on shared technical infrastructure with BoundHQ.
+- Project Zero data must still live behind a separate database boundary or strict application-level isolation.
+- Project Zero records must not be mixed into BoundHQ business-domain tables.
+- Authentication and permissions must resolve to Project Zero roles, not BoundHQ roles.
+
 ## Tables
 
 ### `assets`

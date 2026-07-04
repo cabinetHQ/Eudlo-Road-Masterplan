@@ -59,3 +59,6 @@ ACT-057,Test database schema in PostgreSQL with PostGIS,TBD,Open,TBD,Run schema 
 ACT-058,Create automated SQL validation workflow,TBD,Open,TBD,Add repeatable schema syntax checks once database tooling is chosen
 ACT-059,Create import scripts for assets decisions and actions,TBD,Open,TBD,Convert current CSV and Markdown records into database load scripts
 ACT-060,Decide database hosting and backup strategy,TBD,Open,TBD,Compare local hosted PostgreSQL backups security and future app access
+ACT-061,Define Project Zero authentication boundary,TBD,Open,TBD,Reuse BoundHQ auth patterns if useful but require separate Project Zero login and roles
+ACT-062,Define shared vs isolated BoundHQ technical components,TBD,Open,TBD,List what can be reused and what must remain Project Zero specific
+ACT-063,Confirm Project Zero database isolation strategy,TBD,Open,TBD,Decide separate database separate schema or strict tenant/application isolation before app build
