@@ -21,17 +21,22 @@
   - [Finance Options Register](../04_Grants_Incentives/Finance_Options_Register.md)
 - [05 Water Dam Irrigation](../05_Water_Dam_Irrigation/Water_Dam_Irrigation.md)
   - [Dam Solar Pump Concept](../05_Water_Dam_Irrigation/Dam_Solar_Pump_Concept.md)
+- [06 Asset Register](../06_Asset_Register/Asset_Register.md)
 - [06 Workshop Manufacturing](../06_Workshop_Manufacturing/Workshop_Manufacturing.md)
+- [07 Buildings](../07_Buildings/Buildings_Register.md)
 - [07 Tiny Homes](../07_Tiny_Homes/Tiny_Homes.md)
+- [08 Utilities](../08_Utilities/Utilities_Register.md)
 - [08 Forestry Land](../08_Forestry_Land/Forestry_Land.md)
 - [09 Decision Logs](../09_Decision_Logs/DEC-001-Energy-Masterplan.md)
   - [DEC-002 Financial Modelling Approach](../09_Decision_Logs/DEC-002-Financial-Modelling-Approach.md)
   - [DEC-003 Stay Grid-Connected Initially](../09_Decision_Logs/DEC-003-Stay-Grid-Connected-Initially.md)
   - [DEC-004 Dam Pump Concept](../09_Decision_Logs/DEC-004-Dam-Pump-Concept.md)
   - [DEC-005 Separate Solar And Efficiency Grants](../09_Decision_Logs/DEC-005-Separate-Solar-And-Efficiency-Grants.md)
+  - [DEC-006 Digital Twin Architecture](../09_Decision_Logs/DEC-006-Digital-Twin.md)
 - [10 Action Register](../10_Action_Register/Action_Register.md)
 - [11 Suppliers Quotes](../11_Suppliers_Quotes/Suppliers_Quotes.md)
 - [12 App Integration](../12_App_Integration/App_Integration.md)
+- [13 Digital Twin](../13_Digital_Twin/Digital_Twin_Strategy.md)
 
 ## Structured Data
 
@@ -39,6 +44,7 @@
 - [Investment Options CSV](../../data/investment_options.csv)
 - [Grants Register CSV](../../data/grants_register.csv)
 - [Asset Register CSV](../../data/asset_register.csv)
+- [Assets CSV](../../data/assets.csv)
 - [Action Register CSV](../../data/action_register.csv)
 - [Assumptions JSON](../../data/assumptions.json)
 

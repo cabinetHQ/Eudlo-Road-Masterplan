@@ -1,0 +1,23 @@
+asset_id,asset_name,category,subcategory,status,gps_location,location,installation_date,expected_life,replacement_cost,maintenance_interval,supplier,warranty,depreciation_class,insurance_value,dependencies,decision_references,action_items,notes
+BLD-001,Workshop,Buildings,Workshop,Existing,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-004; COM-003","DEC-001; DEC-003","ACT-003; ACT-017",Main manufacturing and energy load centre
+BLD-002,Existing House,Buildings,Existing House,Existing,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Existing accommodation/residence asset
+BLD-003,Future House,Buildings,Future House,Planned,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Future residential building placeholder
+BLD-004,Tiny Home Factory,Buildings,Tiny Home Factory,Planned,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-001; INF-002; INF-004","DEC-001; DEC-003","ACT-003",Future manufacturing expansion placeholder
+BLD-005,Future Tiny Homes,Buildings,Future Tiny Homes,Planned,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-001; INF-002; INF-004",TBD,TBD,Accommodation/business model placeholder
+INF-001,Stage 1 Solar,Infrastructure,Solar,Planned,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-004","DEC-001; DEC-002; DEC-003","ACT-012; ACT-013; ACT-017; ACT-018",50 kW solar with design pathway to 100 kW
+INF-002,Stage 1 Battery,Infrastructure,Battery,Planned,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-001; INF-004","DEC-001; DEC-002; DEC-003","ACT-012; ACT-013; ACT-020",100 kWh battery
+INF-003,Generator,Infrastructure,Generator,Planned,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-004","DEC-003","ACT-021",Backup/microgrid integration
+INF-004,Main Switchboard,Infrastructure,Switchboards,Existing/TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"DEC-001; DEC-003","ACT-019",Location and capacity to be confirmed
+INF-005,Dam,Infrastructure,Dam,Existing,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"DEC-004","ACT-022; ACT-023",Water storage and future pump planning
+INF-006,Dam Solar Pump,Infrastructure,Irrigation,Concept,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-005","DEC-004","ACT-024; ACT-025; ACT-026",Solar-only recirculation pump concept
+MAC-001,CNC,Machinery,CNC,Existing/TBD,TBD,Workshop,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"BLD-001; INF-004",TBD,"ACT-003",Confirm model load and maintenance requirements
+MAC-002,Compressor,Machinery,Compressor,Existing/TBD,TBD,Workshop,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"BLD-001; INF-004","DEC-005","ACT-007; ACT-032",Candidate for MEEG efficiency upgrade
+MAC-003,Edgebander,Machinery,Edgebander,Existing/TBD,TBD,Workshop,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"BLD-001; INF-004",TBD,"ACT-003",Confirm load and maintenance requirements
+MAC-004,Dust Extraction,Machinery,Dust extraction,Existing/TBD,TBD,Workshop,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"BLD-001; INF-004",TBD,"ACT-003",Confirm load and efficiency opportunities
+LND-001,Forestry Blocks,Land,Forestry blocks,Existing,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Forestry and land management
+LND-002,Waterhole,Land,Waterhole,Concept,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"INF-005; INF-006","DEC-004","ACT-026",Lower plunge basin/waterhole concept
+LND-003,Koala Corridor,Land,Koala corridor,Existing/TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Environmental planning placeholder
+COM-001,NBN,Communications,NBN,Existing/TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Confirm service details
+COM-002,Starlink,Communications,Starlink,Existing/TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Confirm service details
+COM-003,WiFi,Communications,WiFi,Existing/TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"COM-001; COM-002",TBD,TBD,Site network planning
+COM-004,CCTV,Communications,CCTV,Planned/TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"COM-003",TBD,TBD,Security and monitoring placeholder

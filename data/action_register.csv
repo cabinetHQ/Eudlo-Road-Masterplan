@@ -32,3 +32,9 @@ ACT-030,Identify eligible future R&D activities,TBD,Open,TBD,Set up evidence cap
 ACT-031,Collect evidence and timesheets,TBD,Open,TBD,Include project notes test results commits invoices and staff time
 ACT-032,Investigate MEEG for compressor/VSD/lighting/monitoring only,TBD,Open,TBD,Keep solar batteries second-hand gear and switchboard upgrades out of MEEG scope
 ACT-033,Verify current CEFC/bank green finance options,TBD,Open,TBD,Ask banks and brokers for current rates terms fees security and eligible equipment
+ACT-034,Assign unique IDs to priority assets,TBD,Open,TBD,Start with workshop solar battery generator switchboard dam pump compressor and CNC
+ACT-035,Capture GPS placeholders for priority assets,TBD,Open,TBD,Use approximate coordinates first then refine later
+ACT-036,Create individual asset pages for high-value assets,TBD,Open,TBD,Use the Asset Register template
+ACT-037,Collect photos and drawings for priority assets,TBD,Open,TBD,Link photos manuals plans quotes and warranties to asset records
+ACT-038,Add maintenance intervals for machinery and infrastructure,TBD,Open,TBD,Include compressor CNC edgebander dust extraction generator battery and pump
+ACT-039,Link decisions and actions to asset IDs,TBD,Open,TBD,Improve future app ingestion and reporting

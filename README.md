@@ -6,6 +6,8 @@ It is intended to become the long-term source of truth for decisions, assumption
 
 The repository is deliberately structured so it can later feed an app or dashboard. Markdown documents hold the narrative planning context, while CSV and JSON files hold structured data that can be imported, validated, visualised, or synchronised with future tools.
 
+The long-term app direction is a digital twin of the Eudlo Road property. Every major physical asset should eventually have a unique record linking location, drawings, documents, maintenance, financial history, suppliers, grants, photos, decisions, and action items.
+
 ## Core Areas
 
 - Energy infrastructure and future expansion
@@ -17,6 +19,7 @@ The repository is deliberately structured so it can later feed an app or dashboa
 - Forestry, land, and site planning
 - Decision logs and action tracking
 - Supplier quotes and asset registers
+- Asset-centric digital twin planning
 - Future app and dashboard integration
 
 ## Working Principles
@@ -26,4 +29,3 @@ The repository is deliberately structured so it can later feed an app or dashboa
 - Record why decisions were made.
 - Make every document easy to update.
 - Prefer simple structured data that can later become an app backend.
-
