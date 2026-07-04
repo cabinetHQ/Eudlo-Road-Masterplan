@@ -92,3 +92,7 @@ Placeholder: compare annual savings against the avoided home loan interest that 
 
 See [Financial Model Output](Financial_Model_Output.md).
 
+## Stage 1 Business Case Documents
+
+- [Solar Battery Business Case](Solar_Battery_Business_Case.md)
+- [Offset vs Solar Decision](Offset_vs_Solar_Decision.md)

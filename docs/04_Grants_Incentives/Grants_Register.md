@@ -1,5 +1,7 @@
 # Grants and Incentives Register
 
+See also [Finance Options Register](Finance_Options_Register.md).
+
 ## Federal STCs For Solar
 
 Small-scale Technology Certificates (STCs) may reduce the upfront installed cost of eligible solar systems.
@@ -60,4 +62,3 @@ Potential areas to assess:
 - Internal software or operational systems with genuine experimental uncertainty
 
 Next step: speak to accountant or R&D adviser before relying on this in the investment case.
-
