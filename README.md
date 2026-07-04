@@ -62,3 +62,11 @@ The long-term app direction is a digital twin of the Eudlo Road property. Every 
 - [Database Schema Draft](architecture/DATABASE_SCHEMA_DRAFT.md)
 - [GIS Data Model](architecture/GIS_DATA_MODEL.md)
 - [Migration Plan](architecture/MIGRATION_PLAN.md)
+
+## Database
+
+- [Database README](database/README.md)
+- [PostgreSQL/PostGIS schema](database/schema.sql)
+- [Asset seed SQL](database/seed/assets.seed.sql)
+- [Decision seed SQL](database/seed/decisions.seed.sql)
+- [Action seed SQL](database/seed/actions.seed.sql)

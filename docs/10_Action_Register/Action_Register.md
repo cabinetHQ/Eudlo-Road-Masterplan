@@ -58,3 +58,7 @@
 | ACT-054 | Create parser plan for decision log Markdown files | TBD | Open | TBD | Extract status, date, decision, context, rationale, consequences, and source file |
 | ACT-055 | Define PostGIS coordinate and accuracy standard | TBD | Open | TBD | Required before field capture and GIS imports |
 | ACT-056 | Draft first implementation schema from architecture docs | TBD | Open | TBD | Convert plain-English schema into SQL only after review |
+| ACT-057 | Test database schema in PostgreSQL with PostGIS | TBD | Open | TBD | Run schema and seed files in a real local or hosted PostgreSQL/PostGIS environment |
+| ACT-058 | Create automated SQL validation workflow | TBD | Open | TBD | Add repeatable schema syntax checks once database tooling is chosen |
+| ACT-059 | Create import scripts for assets, decisions and actions | TBD | Open | TBD | Convert current CSV and Markdown records into database load scripts |
+| ACT-060 | Decide database hosting and backup strategy | TBD | Open | TBD | Compare local, hosted PostgreSQL, backups, security and future app access |
