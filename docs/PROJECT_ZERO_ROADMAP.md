@@ -24,6 +24,14 @@ The repository is currently a strong knowledge base. The next shift is to conver
 
 Create the product, data, and governance foundation that prevents Project Zero becoming another disconnected dashboard.
 
+Canonical architecture sources:
+
+- [Canonical Data Model](../architecture/CANONICAL_DATA_MODEL.md)
+- [Entity Relationship Model](../architecture/ENTITY_RELATIONSHIP_MODEL.md)
+- [Database Schema Draft](../architecture/DATABASE_SCHEMA_DRAFT.md)
+- [GIS Data Model](../architecture/GIS_DATA_MODEL.md)
+- [Migration Plan](../architecture/MIGRATION_PLAN.md)
+
 ### Build
 
 - Product architecture and module boundaries
@@ -53,6 +61,7 @@ Create the product, data, and governance foundation that prevents Project Zero b
 - Project Zero has a defined data model.
 - Every new record can be linked to assets, decisions, projects, and locations.
 - The app can ingest current repository data without losing context.
+- Markdown remains narrative/archive while structured entities become the future app source of truth.
 
 ## Phase 2: Property Digital Twin
 

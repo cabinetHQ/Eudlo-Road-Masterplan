@@ -10,6 +10,8 @@ Initial governance baseline for Project Eudlo.
 - Created Project Zero vision, roadmap, architecture, backlog, and repository review.
 - Added DEC-007 for Project Zero architecture direction.
 - Identified that the repository must evolve from document-first knowledge base into entity, database, GIS, workflow, automation, and AI architecture.
+- Added canonical data model, entity relationship model, database schema draft, GIS data model, migration plan, and DEC-008.
+- Established structured entities as the future source of truth while keeping Markdown as narrative and decision archive.
 
 ### Completed So Far
 

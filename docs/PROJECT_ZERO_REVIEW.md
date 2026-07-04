@@ -293,16 +293,18 @@ Project Zero needs explicit relationships:
 
 ## Highest Value Next Steps
 
-1. Define the canonical entity relationship model.
-2. Resolve duplicate folder numbering in a migration branch.
-3. Make `assets.csv` canonical and archive `asset_register.csv`.
-4. Create database schema draft for assets, projects, decisions, actions, finance, maintenance, documents, GIS, and sensors.
-5. Capture property boundary and first GIS layers.
-6. Create unique IDs for projects, suppliers, documents, photos, drawings, maintenance events, and financial events.
-7. Design the app shell around the property map.
-8. Build import scripts from current Markdown/CSV into database-ready JSON.
-9. Create the missing data dashboard.
-10. Build the first AI retrieval prototype with citations and governance guardrails.
+1. Approve and implement the [Canonical Data Model](../architecture/CANONICAL_DATA_MODEL.md).
+2. Use the [Entity Relationship Model](../architecture/ENTITY_RELATIONSHIP_MODEL.md) to define app relationships.
+3. Use the [Database Schema Draft](../architecture/DATABASE_SCHEMA_DRAFT.md) as the basis for PostgreSQL/PostGIS implementation.
+4. Resolve duplicate folder numbering using the [Migration Plan](../architecture/MIGRATION_PLAN.md).
+5. Make `assets.csv` canonical and archive `asset_register.csv` after migration.
+6. Create database schema draft for assets, projects, decisions, actions, finance, maintenance, documents, GIS, and sensors.
+7. Capture property boundary and first GIS layers.
+8. Create unique IDs for projects, suppliers, documents, photos, drawings, maintenance events, and financial events.
+9. Design the app shell around the property map.
+10. Build import scripts from current Markdown/CSV into database-ready JSON.
+11. Create the missing data dashboard.
+12. Build the first AI retrieval prototype with citations and governance guardrails.
 
 ## Final Assessment
 

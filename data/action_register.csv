@@ -49,3 +49,9 @@ ACT-047,Draft Project Zero database schema,TBD,Open,TBD,Include relational spati
 ACT-048,Capture first GIS base layers,TBD,Open,TBD,Property boundary buildings roads dam utilities forestry koala corridor
 ACT-049,Design Project Zero app shell around property map,TBD,Open,TBD,Map-first interface with asset decision action finance and document panels
 ACT-050,Prototype AI retrieval with governed citations,TBD,Open,TBD,AI must cite source records and not overwrite decisions
+ACT-051,Review and approve canonical data model,TBD,Open,TBD,Confirm entity list required fields relationships and app modules
+ACT-052,Create import mapping for assets.csv,TBD,Open,TBD,Map current columns to future assets table
+ACT-053,Create import mapping for action_register.csv,TBD,Open,TBD,Preserve ACT IDs and add relationship fields after import
+ACT-054,Create parser plan for decision log Markdown files,TBD,Open,TBD,Extract status date decision context rationale consequences and source file
+ACT-055,Define PostGIS coordinate and accuracy standard,TBD,Open,TBD,Required before field capture and GIS imports
+ACT-056,Draft first implementation schema from architecture docs,TBD,Open,TBD,Convert plain-English schema into SQL only after review

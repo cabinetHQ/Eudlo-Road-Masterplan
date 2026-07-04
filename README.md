@@ -54,3 +54,11 @@ The long-term app direction is a digital twin of the Eudlo Road property. Every 
 - [Project Zero Architecture](docs/PROJECT_ZERO_ARCHITECTURE.md)
 - [Project Zero Backlog](docs/PROJECT_ZERO_BACKLOG.md)
 - [Project Zero Review](docs/PROJECT_ZERO_REVIEW.md)
+
+## Architecture
+
+- [Canonical Data Model](architecture/CANONICAL_DATA_MODEL.md)
+- [Entity Relationship Model](architecture/ENTITY_RELATIONSHIP_MODEL.md)
+- [Database Schema Draft](architecture/DATABASE_SCHEMA_DRAFT.md)
+- [GIS Data Model](architecture/GIS_DATA_MODEL.md)
+- [Migration Plan](architecture/MIGRATION_PLAN.md)

@@ -19,6 +19,14 @@
 - [AI Agent Startup](../../GOVERNANCE/AI_AGENT_STARTUP.md)
 - [Changelog](../../GOVERNANCE/CHANGELOG.md)
 
+## Architecture
+
+- [Canonical Data Model](../../architecture/CANONICAL_DATA_MODEL.md)
+- [Entity Relationship Model](../../architecture/ENTITY_RELATIONSHIP_MODEL.md)
+- [Database Schema Draft](../../architecture/DATABASE_SCHEMA_DRAFT.md)
+- [GIS Data Model](../../architecture/GIS_DATA_MODEL.md)
+- [Migration Plan](../../architecture/MIGRATION_PLAN.md)
+
 ## Major Sections
 
 - [01 Energy Infrastructure Masterplan](../01_Energy_Infrastructure_Masterplan/Energy_Masterplan.md)
@@ -49,6 +57,7 @@
   - [DEC-005 Separate Solar And Efficiency Grants](../09_Decision_Logs/DEC-005-Separate-Solar-And-Efficiency-Grants.md)
   - [DEC-006 Digital Twin Architecture](../09_Decision_Logs/DEC-006-Digital-Twin.md)
   - [DEC-007 Project Zero Architecture Direction](../09_Decision_Logs/DEC-007-Project-Zero-Architecture.md)
+  - [DEC-008 Canonical Data Model](../09_Decision_Logs/DEC-008-Canonical-Data-Model.md)
 - [10 Action Register](../10_Action_Register/Action_Register.md)
 - [11 Suppliers Quotes](../11_Suppliers_Quotes/Suppliers_Quotes.md)
 - [12 App Integration](../12_App_Integration/App_Integration.md)
